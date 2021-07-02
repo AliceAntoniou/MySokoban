@@ -1,0 +1,8 @@
+*.a
+*.o
+.vscode
+my_sokoban
+map/*
+*.gc*
+tests_run
+vgcore.*
